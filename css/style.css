@@ -5,7 +5,9 @@ html {
 
 body {
   box-sizing: border-box;
-  background: url("http://jomesthewedding.com/wp-content/themes/jomes/library/images/dots.gif") #CEECED;
+  background: url("../riemkejan.png");
+  background-repeat: no-repeat;
+  background-position: right 0 top 0;
   font-family: 'TilburgSans', cursive;
   font-size: 1.4rem;
   color: #2f2f2f;
