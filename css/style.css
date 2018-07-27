@@ -1,4 +1,8 @@
-@import url(TilburgSans-Light.otf);
+@font-face {
+    font-family: "TilburgSans";
+    src: url("../TilburgSans-Light.woff") format('woff');
+}
+
 html {
   height: 100%;
 }
