@@ -12,6 +12,7 @@ body {
   background: url("riemkejan.png");
   background-repeat: no-repeat;
   background-position: right 0 top 0;
+  background-size: contain;
   font-family: 'TilburgsAns', cursive;
   font-size: 1.4rem;
   color: #2f2f2f;
