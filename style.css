@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "TilburgSans";
-    src: url("TilburgSans-Light.woff") format('woff');
+    font-family: "TilburgsAns";
+    src: url("TilburgsAns-Light.woff") format('woff');
 }
 
 html {
@@ -12,7 +12,7 @@ body {
   background: url("riemkejan.png");
   background-repeat: no-repeat;
   background-position: right 0 top 0;
-  font-family: 'TilburgSans', cursive;
+  font-family: 'TilburgsAns', cursive;
   font-size: 1.4rem;
   color: #2f2f2f;
   text-align: left;
